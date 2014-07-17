@@ -2,4 +2,4 @@
 
 ###SSLCOOMERZ Payment Gateway API ( Based on Bangladeshi Payment System )
 
-####<a href="https://www.sslcommerz.com.bd/">Contact them for more details</a>
+####<a href="http://walleto.com.bd/">Contact them for more details</a>
