@@ -5,7 +5,7 @@
 	<title>SSL Commerce Example</title>
 </head>
 <body>
-	<form action="https://www.sslcommerz.com.bd/testbox/process/index.php" method="post" name="form1">
+	<form action="https://www.sslcommerz.com.bd/gwprocess/testbox/" method="post" name="form1">
 		<input type="hidden" name="store_id" value="test" /> <!� You have to put your store ID here - >
 		<input type="hidden" name="total_amount" value="800" />
 		<input type="hidden" name="tran_id" value="ftrans01" />
